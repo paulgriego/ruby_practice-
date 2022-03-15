@@ -1,1 +1,0 @@
-#project folder for launchschool intro to ruby
