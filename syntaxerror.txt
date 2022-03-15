@@ -1,0 +1,7 @@
+The issue is the code reads
+
+{ )
+Most likely do to an open bracket such as a hash.
+
+The correct syntax is 
+{ () }
